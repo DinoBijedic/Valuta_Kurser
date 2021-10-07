@@ -1,0 +1,2 @@
+C:\Users\Dino\source\repos\KurserTest\KurserTest\obj\Debug\KurserTest.csproj.AssemblyReference.cache
+C:\Users\Dino\source\repos\KurserTest\KurserTest\obj\Debug\KurserTest.csproj.CoreCompileInputs.cache
